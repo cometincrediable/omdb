@@ -6,6 +6,7 @@ import MainRoutes from "./routes";                  // This is MainRoutes
 function App() {
   return (
     <div>
+        {/* this is app.js */}
         <BrowserRouter>
           <MainRoutes />
         </BrowserRouter>
